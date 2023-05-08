@@ -1,3 +1,6 @@
+<div align="center"><h2> Basic Stock Analysis of GME Stock </h2></div>
+<div align="center"><img src="https://imageio.forbes.com/specials-images/imageserve/60269fb3813159954faebc7d//0x0.png?format=png&width=960" width="700" height="300"></div>
+
 ## About:
 This project was a basic stock analysis of GameStop. At the time, the company made it into the news and top search engines. 
 
@@ -9,8 +12,9 @@ This project was a basic stock analysis of GameStop. At the time, the company ma
 + USA Today - ['This is life-changing': Meet the Redditors behind the GameStop saga](https://www.usatoday.com/story/money/markets/2021/02/02/gamestop-stock-reddit-wallstreetbets-users-discuss-gme-short-squeeze/4310623001/)
 + CNBC - [The $300 billion meme stock that makes GameStop look like child’s play](https://www.cnbc.com/2022/08/03/the-300-billion-meme-stock-that-makes-gamestop-look-like-childs-play.html)
 
-
 ## Acknowledgement:
 This was from a workshop that I attended where I learned basic python functions at COOP Careers. 
+
+
 
 
