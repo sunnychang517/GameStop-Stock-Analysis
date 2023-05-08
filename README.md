@@ -2,7 +2,7 @@
 <div align="center"><img src="https://imageio.forbes.com/specials-images/imageserve/60269fb3813159954faebc7d//0x0.png?format=png&width=960" width="700" height="300"></div>
 
 ## About:
-This project was a basic stock analysis of GameStop. At the time, the company made it into the news and top search engines. 
+This project is about a basic stock analysis of GameStop. At the time, the company made it into the news and top search engines. 
 
 + New York Times - [What Is GameStop Really Worth?](https://www.nytimes.com/2021/02/01/business/dealbook/gamestop-trading-valuation.html?searchResultPosition=4) 
 + Bloomberg - [How WallStreetBets Pushed GameStop Shares to the Moon](https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon#xj4y7vzkg)
